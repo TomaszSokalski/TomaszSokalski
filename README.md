@@ -1,5 +1,5 @@
 - 👋 Hello, I’m Tomasz
-- 🌱 I’m currently learning Angular and Typescript
+- 🌱 I’m currently learning PHP and Symfony
 - 📫 How to reach me: tsokalski88@gmail.com
 
 <!---
